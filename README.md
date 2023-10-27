@@ -3,4 +3,4 @@
 <br>
 [Stepik](https://stepik.org/users/656256030/profile?auth=registration)
 <br>
-[Сайт 26.10.2023](https://github.com/Deviant1407/ib_site/blob/main/1/main.html)
+[Сайт 26.10.2023](https://deviant1407.github.io/Deviant1407/ib_site/blob/main/1/main.html)
