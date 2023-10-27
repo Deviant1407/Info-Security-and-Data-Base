@@ -1,0 +1,115 @@
+html, body {
+    width: 100%;
+    height: none;
+    margin: 0px;
+    font-size: 18px;
+}
+li:hover {
+    background-color: #ccc;
+}
+.ul1 {
+    list-style: none;
+    padding-left: 0;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+#gray {
+    color: gray;
+}
+.padding {
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    width: 98%;
+    height: none;
+}
+.fon {
+    background: linear-gradient(to bottom right, #00bfff, #7fffd4);
+}
+.header {
+    height: 10%;
+    width: 100%;
+}
+.logo {
+    float: left;
+    padding-left: 1%;
+    width: 6%;
+    height: 100%;
+}
+.name {
+    width: 93%;
+    height: 100%;
+    float: right;
+}
+.main {
+    width: 100%;
+    padding-top: 2%;
+}
+#main {
+    height: 110%;
+}
+#history {
+    height: 210%; 
+}
+#citizens {
+    height: 72%;
+}
+#text {
+    float: left;
+    width: 60%;
+}
+#photo {
+    float: right;
+}
+#attractions {
+    height: 200%;
+}
+#theaters {
+    height: 170%;
+}
+.object {
+    width: 100%;
+    height: 30%;
+    padding-bottom: 1%;
+}
+.photo {
+    width: 45%;
+    float: left;
+}
+.text {
+    width: 54%;
+    padding-left: 1%;
+    float: right;
+}
+#museums {
+    height: 170%;
+}
+#churches {
+    height: 170%;
+}
+#phones {
+    height: 85%;
+}
+.menu {
+    height: 240px;
+    width: 14%;
+    padding-left: 1%;
+    float: left;
+    background: #20b2aa80;
+}
+.info {
+    padding-left: 2%;
+    padding-right: 5%;
+    width: 78%;
+    float: right;
+}
+.footer {
+    width: 100%;
+    height: 3%;
+    padding-top: 4%;
+    text-align: center;
+    color: rgb(147, 64, 241);
+}
