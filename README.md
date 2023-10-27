@@ -3,4 +3,4 @@
 <br>
 [Stepik](https://stepik.org/users/656256030/profile?auth=registration)
 <br>
-[Сайт 26.10.2023]()
+[Сайт 26.10.2023](1/main.html)
