@@ -3,10 +3,4 @@
 <br>
 [Stepik](https://stepik.org/users/656256030/profile?auth=registration)
 ____
-Задание 26.10.2023
-<br>
-[Сайт 26.10.2023](https://deviant1407.github.io/ib_site/1/main.html)
-<br>
-[Репозиторий сайта](https://github.com/Deviant1407/ib_site)
-____
 [Практика](https://drive.google.com/drive/folders/11vUHwepZBJCFFi2cV3J00BtpSpVmt0jj)
