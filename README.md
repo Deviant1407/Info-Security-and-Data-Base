@@ -7,4 +7,4 @@ ____
 <br>
 [Сайт](http://car-rental1.tilda.ws)
 <br>
-[Новелла](ПП/ПП.html)
+[Новелла](https://deviant1407.github.io/Info-Security-and-Data-Base/ПП/ПП.html)
