@@ -8,3 +8,5 @@ ____
 [Сайт](http://car-rental1.tilda.ws)
 <br>
 [Новелла](https://deviant1407.github.io/Info-Security-and-Data-Base/ПП/ПП.html)
+____
+[Stepik новелла](https://deviant1407.github.io/Info-Security-and-Data-Base/Stepik_Nov/Stepik.html)
