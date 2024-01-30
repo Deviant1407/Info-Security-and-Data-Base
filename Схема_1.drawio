@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T06:28:23.558Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="yyqcDEuInJHZuYWu4Zvg" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T06:29:15.757Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="AK_gUr9FKEoZR2zmoQY9" version="23.0.2" type="github">
   <diagram name="Страница — 1" id="iiY84fL7lKHI_6B-AdGC">
     <mxGraphModel dx="1434" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -12,6 +12,12 @@
         </mxCell>
         <mxCell id="8DKpkcI0aDm_iJhaxFEY-75" value="Запкупка" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKpkcI0aDm_iJhaxFEY-76" value="Номер закупки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8DKpkcI0aDm_iJhaxFEY-75">
+          <mxGeometry y="25" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKpkcI0aDm_iJhaxFEY-77" value="Наименование закупки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8DKpkcI0aDm_iJhaxFEY-75">
+          <mxGeometry y="55" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
