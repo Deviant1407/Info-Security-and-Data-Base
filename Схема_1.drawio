@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T06:11:46.802Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="rnT0lYCSZMH_rhWbFo0M" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T06:13:24.507Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="NXNb21iyQ8F-NbRpoptL" version="23.0.2" type="github">
   <diagram name="Страница — 1" id="iiY84fL7lKHI_6B-AdGC">
     <mxGraphModel dx="1434" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -137,6 +137,9 @@
         <mxCell id="8DKpkcI0aDm_iJhaxFEY-35" value="Склад" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="280" width="160" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="8DKpkcI0aDm_iJhaxFEY-58" value="Номер склада" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8DKpkcI0aDm_iJhaxFEY-35">
+          <mxGeometry y="30" width="160" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="8DKpkcI0aDm_iJhaxFEY-36" value="Товар на складе" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="280" width="160" height="160" as="geometry" />
         </mxCell>
@@ -190,6 +193,9 @@
             <mxPoint x="1090" y="430" as="sourcePoint" />
             <mxPoint x="1190" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8DKpkcI0aDm_iJhaxFEY-59" value="Наименование склада" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="340" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
