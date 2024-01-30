@@ -1,23 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T06:29:15.757Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="AK_gUr9FKEoZR2zmoQY9" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T06:39:12.895Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_3JF2JPTzerraNQtTgx_" version="23.0.2" type="github">
   <diagram name="Страница — 1" id="iiY84fL7lKHI_6B-AdGC">
     <mxGraphModel dx="1434" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8DKpkcI0aDm_iJhaxFEY-73" value="Категория" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="40" width="200" height="80" as="geometry" />
+          <mxGeometry x="920" y="640" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8DKpkcI0aDm_iJhaxFEY-74" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="160" width="200" height="80" as="geometry" />
+        <mxCell id="8DKpkcI0aDm_iJhaxFEY-74" value="Модель" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="920" y="40" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8DKpkcI0aDm_iJhaxFEY-75" value="Запкупка" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="200" height="120" as="geometry" />
+        <mxCell id="8DKpkcI0aDm_iJhaxFEY-78" value="Производитель" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="160" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8DKpkcI0aDm_iJhaxFEY-76" value="Номер закупки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8DKpkcI0aDm_iJhaxFEY-75">
-          <mxGeometry y="25" width="200" height="30" as="geometry" />
+        <mxCell id="8DKpkcI0aDm_iJhaxFEY-80" value="Откуда" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="280" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8DKpkcI0aDm_iJhaxFEY-77" value="Наименование закупки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8DKpkcI0aDm_iJhaxFEY-75">
-          <mxGeometry y="55" width="200" height="30" as="geometry" />
+        <mxCell id="8DKpkcI0aDm_iJhaxFEY-81" value="Куда: Область" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="400" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8DKpkcI0aDm_iJhaxFEY-82" value="Куда: Адрес" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="520" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
