@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T09:42:22.304Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="BwFKijRWFo_BDQlHU2PD" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T09:49:45.653Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ChLrcp1u1lNMcOzddgNS" version="23.0.2" type="github">
   <diagram name="Страница — 1" id="iiY84fL7lKHI_6B-AdGC">
     <mxGraphModel dx="1674" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8DKpkcI0aDm_iJhaxFEY-73" value="Категория, ID" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="760" width="200" height="80" as="geometry" />
+          <mxGeometry x="920" y="760" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KrvIEaZz7qjAB-ufYDlF-17" value="&lt;u&gt;ID&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8DKpkcI0aDm_iJhaxFEY-73">
+          <mxGeometry y="25" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KrvIEaZz7qjAB-ufYDlF-18" value="Наименование" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8DKpkcI0aDm_iJhaxFEY-73">
+          <mxGeometry y="55" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DKpkcI0aDm_iJhaxFEY-74" value="Модель, ID" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="920" y="160" width="200" height="80" as="geometry" />
