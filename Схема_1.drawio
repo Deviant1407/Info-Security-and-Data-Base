@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T09:29:32.662Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="6Log0SOs20Mnf8EBgN2X" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T09:33:44.703Z" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="EsbFHr9t-zAQ1hVhjAOc" version="23.0.2" type="github">
   <diagram name="Страница — 1" id="iiY84fL7lKHI_6B-AdGC">
     <mxGraphModel dx="1674" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="8DKpkcI0aDm_iJhaxFEY-83" value="Склад" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="280" width="200" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="8DKpkcI0aDm_iJhaxFEY-84" value="Товар" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="8DKpkcI0aDm_iJhaxFEY-83" vertex="1">
+        <mxCell id="8DKpkcI0aDm_iJhaxFEY-84" value="Товары" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="8DKpkcI0aDm_iJhaxFEY-83" vertex="1">
           <mxGeometry y="30" width="200" height="330" as="geometry" />
         </mxCell>
         <mxCell id="8DKpkcI0aDm_iJhaxFEY-85" value="&lt;u&gt;№&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8DKpkcI0aDm_iJhaxFEY-84" vertex="1">
