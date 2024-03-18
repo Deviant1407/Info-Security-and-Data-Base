@@ -9,6 +9,6 @@ ____
 <br>
 [Новелла](https://deviant1407.github.io/Info-Security-and-Data-Base/ПП/ПП.html)
 ____
-[Stepik новелла](https://deviant1407.github.io/Info-Security-and-Data-Base/Stepik_Nov/Stepik.html)
+[Stepik новелла "Безопасность сети"](https://deviant1407.github.io/Info-Security-and-Data-Base/Stepik_Nov/Stepik.html)
 <br>
 [Stepik новелла "SQL"](https://deviant1407.github.io/Info-Security-and-Data-Base/Stepik_Nov_2/Stepik_Nov_2.html)
