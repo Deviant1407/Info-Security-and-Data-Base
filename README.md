@@ -6,7 +6,7 @@
 ### УП и ПП
 [Практика](https://drive.google.com/drive/folders/11vUHwepZBJCFFi2cV3J00BtpSpVmt0jj)
 <br>
-[Сайт](http://car-rental1.tilda.ws) (Не работает)
+[Сайт](http://car-rental1.tilda.ws)
 <br>
 [Новелла](https://deviant1407.github.io/Info-Security-and-Data-Base/ПП/ПП.html)
 
