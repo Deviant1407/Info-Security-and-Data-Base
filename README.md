@@ -14,3 +14,5 @@
 [Stepik новелла "Безопасность сети"](https://deviant1407.github.io/Info-Security-and-Data-Base/Stepik_Nov/Stepik.html)
 <br>
 [Stepik новелла "SQL"](https://deviant1407.github.io/Info-Security-and-Data-Base/Stepik_Nov_2/Stepik_Nov_2.html)
+<br>
+[БД и сайт](https://github.com/Deviant1407/Dolgi_Yam)
